@@ -1,0 +1,2 @@
+This file is created in feature/second_branch as 
+the first file in this branch
